@@ -1,0 +1,57 @@
+[
+    {
+        id: 1,
+        image: 'High-Off-The-Ground-edited-blkclouds-font4-black.jpg',
+        name: 'Hoodie',
+        price: '$39.99'
+    },
+    {
+        id: 2,
+        image: 'High-Off-The-Ground-edited-blkclouds-font4-black.jpg',
+        name: 'Sweatshirt',
+        price: '$19.99'
+    },
+    {
+        id: 3,
+        image: 'High-Off-The-Ground-edited-blkclouds-font4-black.jpg',
+        name: 'Jeans',
+        price: '$29.99'
+    },
+    {
+        id: 4,
+        image: 'High-Off-The-Ground-edited-blkclouds-font4-black.jpg',
+        name: 'T-Shirt',
+        price: '$9.99'
+    },
+    {
+        id: 5,
+        image: 'High-Off-The-Ground-edited-blkclouds-font4-black.jpg',
+        name: 'Sweatpants',
+        price: '$19.99'
+    },
+    {
+        id: 6,
+        image: 'High-Off-The-Ground-edited-blkclouds-font4-black.jpg',
+        name: 'Baseball Cap',
+        price: '$49.99'
+    },
+    {
+        id: 7,
+        image: 'High-Off-The-Ground-edited-blkclouds-font4-black.jpg',
+        name: 'Jacket',
+        price: '$59.99'
+    },
+    {
+        id: 8,
+        image: 'High-Off-The-Ground-edited-blkclouds-font4-black.jpg',
+        name: 'Dress Pants',
+        price: '$39.99'
+    },
+    {
+        id: 9,
+        image: 'High-Off-The-Ground-edited-blkclouds-font4-black.jpg',
+        name: 'Sneakers',
+        price: '$89.99'
+    },
+
+]
